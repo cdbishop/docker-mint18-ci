@@ -1,4 +1,4 @@
 # Debian Docker container
 
-This container derives from the offical [debian](https://hub.docker.com/_/debian)
-image but updated daily to contain the latest packages.
+This container derives from a base Linux Mint 18 container
+Additional packages, useful to development are added
